@@ -1,0 +1,10 @@
+
+
+Ticket no : 10747093
+Theater : IKNOX
+Movie : JAWAN
+Date : 12-03-2024
+Time : 10:00 AM - 12:00 PM
+No of person : 2
+Total price :$16
+Seat no : [44, 31]
